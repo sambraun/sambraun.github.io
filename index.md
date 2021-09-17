@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to Samantha Braun's Page! :)
 
-You can use the [editor on GitHub](https://github.com/sambraun/sambraun.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Resume
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Worcester Polytechnic Institute (WPI) Worcester, MA -- Expected Graduation – May 2023**
 
-```markdown
-Syntax highlighted code block
+- Bachelors in Robotics Engineering and Computer Science with a Minor in Bioinformatics and Computation
 
-# Header 1
-## Header 2
-### Header 3
+- 3.92/4.0 GPA, Dean's List all terms
 
-- Bulleted
-- List
+**Oak Park & River Forest High School (OPRF) Oak Park, IL -- Graduation – June 2019**
 
-1. Numbered
-2. List
+- 4.0/4.0 GPA, Scholarship Cup (Valedictorian), Cum Laude
 
-**Bold** and _Italic_ and `Code` text
+## Skills Summary
 
-[Link](url) and ![Image](src)
-```
+- Java, JavaFX, Python, C++ , IntelliJ IDE, Eclipse IDE, Visual Studio Code, GitHub, CAD 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Projects
 
-### Jekyll Themes
+- I will like projects here
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sambraun/sambraun.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Job Experience
 
-### Support or Contact
+## Extracurriculars and Other Experience
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
